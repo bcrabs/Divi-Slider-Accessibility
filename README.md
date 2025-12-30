@@ -64,7 +64,13 @@ Add the script to your theme or use Divi's **Theme Options > Integration** secti
 
 ### Option 3: Custom Plugin
 
-Create a simple plugin for portability across themes (see `plugin-version.php` in this repo).
+Create a simple plugin for portability across themes (see `divi-slider-accessibility.php` in this repo).
+
+Installation Instructions for Users:
+1. Download divi-slider-accessibility.php in this repo
+2. Upload to /wp-content/plugins/ directory
+3. Activate through WordPress 'Plugins' menu
+4. Works automatically - no configuration needed!
 
 ## Usage
 
